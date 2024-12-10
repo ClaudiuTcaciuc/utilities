@@ -1,0 +1,13 @@
+metric,value,event,target.summary,run
+precision,0.647372841835022,CrisisFACTS-010,wiki,
+recall,0.687410831451416,CrisisFACTS-010,wiki,
+f1,0.6667913794517517,CrisisFACTS-010,wiki,
+precision,0.5907710790634155,CrisisFACTS-013,wiki,
+recall,0.6510360836982727,CrisisFACTS-013,wiki,
+f1,0.6194412112236023,CrisisFACTS-013,wiki,
+precision,0.7150810360908508,CrisisFACTS-010,nist,
+recall,0.7390848398208618,CrisisFACTS-010,nist,
+f1,0.7268847823143005,CrisisFACTS-010,nist,
+precision,0.6851163506507874,CrisisFACTS-013,nist,
+recall,0.6822846531867981,CrisisFACTS-013,nist,
+f1,0.6836975812911987,CrisisFACTS-013,nist,
